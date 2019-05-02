@@ -3,7 +3,8 @@
   <img src="https://cdn.abranhe.com/projects/racefx/racefx.png" height="100">
   <h3 align="center">RaceFx</h3>
   <p align="center">A JavaFX racing game with betting capabilities<p>
-	<a align="center" href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a> <a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a> <a href="https://www.patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a> <a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg" /></a>
+	<p align="center"><a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a> <a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a> <a href="https://www.patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a> <a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg" /></a>
+
 </p>
 
 ## Get RaceFx
