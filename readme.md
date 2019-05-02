@@ -22,7 +22,6 @@ Clone or download the repository and open it on your favorite Java IDE. I recome
 
 ```
 $ git clone https://github.com/abranhe/racefx.git && cd racefx
-
 ```
 
 <p align="center">
@@ -67,7 +66,7 @@ fact
 
 
 <p align="center">
-	<img src="https://cdn.abranhe.com/projects/racefx/example.gif" height="500">
+	<img src="https://i.postimg.cc/9MXzS59X/racefx.gif">
 </p>
 
 ## License
