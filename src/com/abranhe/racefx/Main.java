@@ -25,6 +25,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import java.util.TimerTask;
 import javafx.scene.layout.Pane;
+import javafx.scene.image.Image;
 import javafx.application.Platform;
 import javafx.scene.image.ImageView;
 import javafx.application.Application;
@@ -46,9 +47,9 @@ public class Main extends Application {
         Pane root = new Pane();
         root.setPrefSize(WIDTH, HEIGHT);
 
-        Features f = new Features();
-        ImageView background = f.background(1);
-        Pane welcome = f.introduction();
+        Features feature = new Features();
+        ImageView background = feature.background(1);
+        Pane welcome = feature.introduction();
 
         game = new Menu();
         game.setVisible(false);
@@ -60,18 +61,21 @@ public class Main extends Application {
          */
         Timer timer = new Timer();
         timer.schedule(new TimerTask() {
+            @Override
             public void run() {
                 Platform.runLater(() -> root.getChildren().add(welcome));
             }
         }, 2000);
 
         timer.schedule(new TimerTask() {
+            @Override
             public void run() {
                 Platform.runLater(() -> root.getChildren().remove(welcome));
             }
         }, 5000);
 
         timer.schedule(new TimerTask() {
+            @Override
             public void run() {
                 Platform.runLater(() -> game.setVisible(true));
             }
@@ -79,10 +83,10 @@ public class Main extends Application {
 
         root.getChildren().addAll(background, game);
         primaryStage.setResizable(false);
-//        primaryStage.setTitle("RaceFx");
-//        primaryStage.getIcons().add(new Image(getClass()
-//                .getResourceAsStream("assets/racefx.png")
-//        ));
+        primaryStage.setTitle("RaceFx");
+        primaryStage.getIcons().add(new Image(getClass()
+                .getResourceAsStream("assets/racefx.png")
+        ));
         primaryStage.setScene(scene);
         primaryStage.show();
 

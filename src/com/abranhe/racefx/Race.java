@@ -257,13 +257,11 @@ public class Race extends Pane {
                             break;
                         case 3:
                             text.setFont(Font.font("text", 17));
-                            text.setText("Your car was in fourth place and you "
-                                    + "lost your money.\n try again to get it back.");
+                            text.setText(podiumLooserMessage("fourth"));
                             break;
                         case 4:
                             text.setFont(Font.font("text", 17));
-                            text.setText("Your car was in fifth place and you lost your money.\n"
-                                    + "try again to get it back.");
+                            text.setText(podiumLooserMessage("fifth"));
                             break;
 
                     }

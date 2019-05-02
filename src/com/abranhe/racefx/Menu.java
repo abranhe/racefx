@@ -182,11 +182,10 @@ public class Menu extends Parent {
          * Display all cars and the name in the menu when selected.
          */
         Image images[] = new Image[lists.size()];
+        
         for (int i = 0; i < lists.size(); i++) {
-            images[i] = new Image(getClass()
-                    .getResource(lists.get(i)
-                            .getImagesMenu())
-                    .toExternalForm()
+            images[i] = new Image(getClass().getResource("assets/" 
+                    + lists.get(i).getImagesMenu()).toExternalForm()
             );
         }
 
