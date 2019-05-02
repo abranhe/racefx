@@ -28,6 +28,13 @@ $ git clone https://github.com/abranhe/racefx.git && cd racefx
 	<img src="https://cdn.abranhe.com/projects/racefx/screenshot.png" height="500">
 </p>
 
+###### Some cool ideas?
+
+- [ ] More cars.
+- [ ] More racing themes.
+- [ ] More sound effects.
+- [ ] Choosing an avatar.
+
 Add your cool feature and submit a pull request. This project I made it back when I was learning, I wanted to fix it a little and make a whole new project out of it.
 
 ```
@@ -68,6 +75,10 @@ fact
 <p align="center">
 	<img src="https://i.postimg.cc/9MXzS59X/racefx.gif">
 </p>
+
+## Declaimer
+
+I build this project long time ago, with almost no knoledge. I tried to refactored a little to make it easier to underestand and to be easier to add features, but still this project is pretty buggy (I tried my best back then). I'd love if you add some new cool features!
 
 ## License
  
