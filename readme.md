@@ -3,15 +3,15 @@
   <img src="https://cdn.abranhe.com/projects/racefx/racefx.png" height="100">
   <h3 align="center">RaceFx</h3>
   <p align="center">A JavaFX racing game with betting capabilities<p>
-  <p align="center"><a href="https://circleci.com/gh/wulkano/kap"><img src="https://circleci.com/gh/wulkano/kap.svg?style=shield" alt="Build Status"></a> <a href="https://github.com/abranhe/"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="XO code style"></a></p>
+	<a align="center" href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a> <a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a> <a href="https://www.patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a> <a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg" /></a>
 </p>
 
 ## Get RaceFx
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/80px-Apple_logo_black.svg.png" height="70">                                                                    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/80px-Apple_logo_black.svg.png" height="70">                      
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/98c2d592-fb7a-4383-adf4-8fcea016dc75/d5kepm9-66efb2f9-b8f0-40c1-80f4-1c656fadad0a.png/v1/fill/w_894,h_894,strp/official_windows_8_logo_by_n_studios_2_d5kepm9-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzk4YzJkNTkyLWZiN2EtNDM4My1hZGY0LThmY2VhMDE2ZGM3NVwvZDVrZXBtOS02NmVmYjJmOS1iOGYwLTQwYzEtODBmNC0xYzY1NmZhZGFkMGEucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.CqvRNi-nw9NhMOafdrdlveBP5w2O9dEbrY3QJgGW5oM" height="90">
-  <h4 align="center"><a href="https://github.com/abranhe/racefx/releases/latest">Download for MacOS</a>                                        <a href="https://github.com/abranhe/racefx/releases/latest">Download for Windows</a></h4>
+  <h4 align="center"><a href="https://github.com/abranhe/racefx/releases/latest">Download for MacOS</a>                  <a href="https://github.com/abranhe/racefx/releases/latest">Download for Windows</a></h4>
 </p>
 
 
